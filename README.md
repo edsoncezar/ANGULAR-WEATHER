@@ -1,7 +1,7 @@
 Weather app
 ===========
 
-Weather app is the little web app for displaying the weather report from openweathermap.org using Components, Databinding, HTTP, Services, Observables, HTML5, CSS3, Responsiveness features and more!
+Weather app for displaying the weather report from openweathermap.org using Components, Databinding, HTTP, Services, Observables, HTML5, CSS3, Responsiveness features and more!
 
 ## App features
 
