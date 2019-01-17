@@ -1,0 +1,12 @@
+<section class="form-group">
+            <form   >
+
+                <label for="cityName" class="search-label">Search for your city</label>
+                <input class="form-control" type="text" placeholder="Enter city name" id="city" [(ngModel)] ="cityName" name="cityname" (input)="onSearchLocationWithEvent($event)">  
+
+
+                <button class="btn btn-primary" [disabled]="disabledForecastButton" (click) ="onSubmitDatabinding()" type="submit">Forecast</button>
+                {{cityName}}            
+            </form>          
+            <weather-list [WeatherForecastList]="weatherForecastData"></weather-list> 
+</section>
