@@ -1,15 +1,21 @@
 Weather app
 ===========
 
-Weather app for displaying the weather report from openweathermap.org using Components, Databinding, HTTP, Services, Observables, HTML5, CSS3, Responsiveness features and more!
+Weather app for displaying the weather report from openweathermap.org using Components, Databinding, HTTP, Services, Observables, HTML5, CSS3, Responsiveness features.
+
+OpenWeatherMap is an online service that provides weather data, including current weather data, forecasts, and historical data to the developers of web services and mobile applications. For data sources, it utilizes meteorological broadcast services, raw data from airport weather stations, raw data from radar stations, and raw data from other official weather stations. All data is processed by OpenWeatherMap in a way that it attempts to provide accurate online weather forecast data and weather maps, such as those for clouds or precipitation. Beyond that, the service is focused on the social aspect by involving weather station owners in connecting to the service and thereby increasing weather data accuracy. The ideology is inspired by OpenStreetMap and Wikipedia that make information free and available for everybody. It uses OpenStreetMap for display of weather maps.
 
 ## App features
 
 1. Display today weather
 2. Display forecast weather  
-3. Search by city/zip code 
-4. Open weather api integration 
-5. Convert celsius to fahrenheit
+3. Display Temperature min/max (C)  
+4. Display Pressure  
+5. Display Wind speed (m/s)  
+6. Display At (date-time)  
+7. Search by city/zip code 
+8. Open weather api integration 
+9. Convert celsius to fahrenheit
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
 
