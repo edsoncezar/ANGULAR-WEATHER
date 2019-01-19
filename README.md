@@ -17,7 +17,7 @@ OpenWeatherMap is an online service that provides weather data, including curren
 8. Open weather api integration 
 9. Convert celsius to fahrenheit
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
+This project was generated with Angular CLI version 1.7.4.
 
 ## Prerequisites  
 1. Install [Node.js®](https://nodejs.org/en/download) and npm
@@ -83,10 +83,6 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-## Angular 2 Style Guide
-
-[Angular 2 Style Guide](https://angular.io/guide/styleguide)
 
 ## Run all the tslint and codelyzer rules
 
